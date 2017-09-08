@@ -14,7 +14,7 @@ Or it can also be compiled from the code at -
 
 
 Usage:
-python eventviewer.py <log file>'
+python eventviewer.py <log file>
 	
 This script parses windows event logs from windows 7 and up
 with the extension .evtx. It outputs the file to a terminal 
